@@ -53,8 +53,8 @@ a:focus, a:hover {
 }
 
 .btn-main, .btn-main-sm {
-  background-color: #21D6BF;
-  background-image: linear-gradient(100deg, #f9643d, #039BE5);
+  background-color: #7AD0CB;
+  background-image: linear-gradient(100deg, #7AD0CB, #039BE5);
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -386,7 +386,7 @@ a:focus, a:hover {
 }
 
 .gradient, .title .border, .service-2 .service-item i {
-  background-image: linear-gradient(100deg, #f9643d, #039BE5);
+  background-image: linear-gradient(100deg, #7AD0CB, #039BE5);
 }
 
 .header-bradcrumb {
@@ -788,8 +788,8 @@ a:focus, a:hover {
   width: 12%;
   height: 3px;
   background-color: #ffa535;
-  background-image: linear-gradient(100deg, #f9643d, #039BE5);
-  background-image: linear-gradient(100deg, #f9643d, #039BE5);
+  background-image: linear-gradient(100deg, #7AD0CB, #039BE5);
+  background-image: linear-gradient(100deg, #7AD0CB, #039BE5);
 }
 
 @media (max-width: 768px) {
@@ -1194,7 +1194,7 @@ a:focus, a:hover {
 .services .service-block i {
   font-size: 40px;
   color: #3C4252;
-  background: linear-gradient(100deg, #f9643d, #039BE5);
+  background: linear-gradient(100deg, #7AD0CB, #039BE5);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1431,7 +1431,7 @@ a:focus, a:hover {
 
 .team-member .member-content ul li a i {
   color: #3C4252;
-  background: linear-gradient(100deg, #f9643d, #039BE5);
+  background: linear-gradient(100deg, #7AD0CBa, #039BE5);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
